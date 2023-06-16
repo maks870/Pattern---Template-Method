@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Pattern - Template Method\Pattern - Template Method\bin\Debug\netcoreapp3.1\Pattern - Template Method.exe
+C:\Users\Administrator\source\repos\Pattern - Template Method\Pattern - Template Method\bin\Debug\netcoreapp3.1\Pattern - Template Method.deps.json
+C:\Users\Administrator\source\repos\Pattern - Template Method\Pattern - Template Method\bin\Debug\netcoreapp3.1\Pattern - Template Method.runtimeconfig.json
+C:\Users\Administrator\source\repos\Pattern - Template Method\Pattern - Template Method\bin\Debug\netcoreapp3.1\Pattern - Template Method.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Pattern - Template Method\Pattern - Template Method\bin\Debug\netcoreapp3.1\Pattern - Template Method.dll
+C:\Users\Administrator\source\repos\Pattern - Template Method\Pattern - Template Method\bin\Debug\netcoreapp3.1\Pattern - Template Method.pdb
+C:\Users\Administrator\source\repos\Pattern - Template Method\Pattern - Template Method\obj\Debug\netcoreapp3.1\Pattern - Template Method.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Pattern - Template Method\Pattern - Template Method\obj\Debug\netcoreapp3.1\Pattern - Template Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Pattern - Template Method\Pattern - Template Method\obj\Debug\netcoreapp3.1\Pattern - Template Method.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Pattern - Template Method\Pattern - Template Method\obj\Debug\netcoreapp3.1\Pattern - Template Method.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Pattern - Template Method\Pattern - Template Method\obj\Debug\netcoreapp3.1\Pattern - Template Method.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Pattern - Template Method\Pattern - Template Method\obj\Debug\netcoreapp3.1\Pattern - Template Method.dll
+C:\Users\Administrator\source\repos\Pattern - Template Method\Pattern - Template Method\obj\Debug\netcoreapp3.1\Pattern - Template Method.pdb
+C:\Users\Administrator\source\repos\Pattern - Template Method\Pattern - Template Method\obj\Debug\netcoreapp3.1\Pattern - Template Method.genruntimeconfig.cache
